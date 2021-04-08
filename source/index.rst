@@ -10,7 +10,8 @@ Welcome to Design Docs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   welcome.md
+   Welcome <welcome.md>
+   About <about.md>
 
 
 Indices and tables
