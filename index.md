@@ -19,3 +19,5 @@
 ---
 
 [Contact](contact.md)
+
+[Things I write](writing.md)

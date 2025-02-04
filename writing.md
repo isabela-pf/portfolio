@@ -5,7 +5,7 @@
 - [Accessibility Workshop Resources (at a11y-events)](https://github.com/isabela-pf/a11y-events/)
 - [Notebooks For All User Testing](https://github.com/Iota-School/notebooks-for-all/tree/main/user-tests#readme)
 - [Jupyter Community Calls Hosting Resources](https://github.com/jupyter/jupyter-communitycalls/blob/main/README.md)
-- [2020 Jupyter Survey](https://github.com/jupyter/surveys/tree/master/surveys/2020-12-jupyter-survey#readme) and [JupyterLab Accessibility Overview](https://github.com/jupyter/surveys/tree/master/surveys/2023-05-jupyterlab-accessibility#readme) in the [jupyter/surveys](https://github.com/jupyter/surveys/tree/master) project.
+- [JupyterLab Accessibility Overview](https://github.com/jupyter/surveys/tree/master/surveys/2023-05-jupyterlab-accessibility#readme) and [2020 Jupyter Survey](https://github.com/jupyter/surveys/tree/master/surveys/2020-12-jupyter-survey#readme) in the [jupyter/surveys](https://github.com/jupyter/surveys/tree/master) project.
 - Jupyter Notebook Authoring Recommendations (coming soon)
 - Accessible Documentation Authoring (coming soon)
 - Image Description Guide (coming soon)
