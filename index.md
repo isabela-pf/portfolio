@@ -21,3 +21,5 @@
 [Contact](contact.md)
 
 [Things I write](writing.md)
+
+[Things I say](speaking.md)
