@@ -2,6 +2,16 @@
 
 After years of a friend asking me what I read, I present a list. It's worth noting that these are not all novels; many are much shorter.
 
+## February 2025
+
+- Just Enough Research - Erika Hall (2024 Edition)
+- The Absolute - Aaron Dries
+- A field guide to the Identification of Pebbles - Eileen Van der Flier Keller
+- The Nothing Catalogue - K.W.M.
+- [Against Access](https://audio.mcsweeneys.net/transcripts/against_access.html) - John Lee Clark
+- The Invisible Kingdom - Meghan O’Rourke
+- How to Prosper During the Coming Bad Years - Willow Sedam
+
 ## January 2025
 
 - There, There - Tommy Orange
