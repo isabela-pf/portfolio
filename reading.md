@@ -2,6 +2,14 @@
 
 After years of a friend asking me what I read, I present a list. It's worth noting that these are not all novels; many are much shorter.
 
+## April 2025
+
+- East of West Volume 5 - Hickman, Dragotta, Martin
+- Basilisk - Erin Roseberry
+- 7 Things I Experienced Working In Mass Vax Clinics - printed at RisoLAB SVA
+- Rare Flavours - Ram V, Filipe Andrade
+- Majnun and Layla Songs from Beyond the Grave - Yann Damezin
+
 ## March 2025
 
 - Frankenstein - Mary Wollstonecraft Shelley
