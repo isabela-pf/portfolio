@@ -2,6 +2,19 @@
 
 After years of a friend asking me what I read, I present a list. It's worth noting that these are not all novels; many are much shorter.
 
+## May 2025
+
+- Tributaries - Tim Ralston
+- The Clown Watches The Clock - Micah Schnabel
+- Saga Volume 2 - Brian K. Vaughan and Fiona Staples
+- National Geographic: The Secret Life of Birds
+- [I sexually identify as an attack helicopter](https://isabelfall.neocities.org/Isabel_Fall_-_I_Sexually_Identify_as_an_Attack_Helicopter.pdf) - Isabel Fall
+- Graphic Design BFA Senior Showcase Volume 1
+- Graphic Design BFA Senior Showcase Volume 2
+- The New Illiteracy - Christopher Lasch
+- There Is No Hierarchy of Oppressions - Audre Lorde
+- [They Don’t Read Very Well: A Study of the Reading Comprehension Skills of English Majors at Two Midwestern Universities](https://muse.jhu.edu/pub/1/article/922346/pdf) - Susan Carlson, Ananda Jayawardhana, Diane Miniel
+
 ## April 2025
 
 - East of West Volume 5 - Hickman, Dragotta, Martin
