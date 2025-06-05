@@ -12,6 +12,7 @@
 
 ## For the Quansight Labs Blog
 
+- [There are lots of accessiblity resources](https://labs.quansight.org/blog/there-are-lots-of-accessibility-resources) (JupyterLab Accessibility Journey Part 6)
 - [Practicing Accessibility: Scientific Python Accessibility Events in Summary](https://labs.quansight.org/blog/practicing-accessibility-scientific-python-accessibility-events-in-summary)
 - [Announcing Scientific Python Accessibility Events](https://labs.quansight.org/blog/announcing-scientific-python-accessibility-events)
 - [Captioning: A Newcomer’s Guide](https://labs.quansight.org/blog/captioning-a-newcomers-guide) (JupyterLab Accessibility Journey Part 5)
