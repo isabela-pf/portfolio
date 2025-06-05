@@ -2,6 +2,10 @@
 
 Talks, presentations, synonyms, and more. 
 
+## 2025
+
+- Quick Accessibility Checks for Your Media of Choice for Cal Poly Graphic Design guest lecture
+
 ## 2024
 
 - [Accessibility in your Digital Day-to-Day](https://youtu.be/XkPqNt4mOGk) for Scientific Python Accessibility 
