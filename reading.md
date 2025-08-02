@@ -2,6 +2,30 @@
 
 After years of a friend asking me what I read, I present a list. It's worth noting that these are not all novels; many are much shorter.
 
+## July 2025
+
+- Saga Volume 3 - Brian K. Vaughan and Fiona Staples
+- Saga Volume 4 - Brian K. Vaughan and Fiona Staples
+- Saga Volume 5 - Brian K. Vaughan and Fiona Staples
+- Saga Volume 6 - Brian K. Vaughan and Fiona Staples
+- Saga Volume 7 - Brian K. Vaughan and Fiona Staples
+- Saga Volume 8 - Brian K. Vaughan and Fiona Staples
+- Saga Volume 9 - Brian K. Vaughan and Fiona Staples
+- Saga Volume 10 - Brian K. Vaughan and Fiona Staples
+- Saga Volume 11 - Brian K. Vaughan and Fiona Staples
+- Saga Volume 12 - Brian K. Vaughan and Fiona Staples
+- Wandering Stars - Tommy Orange
+
+## June 2025
+
+- The Left Hand of Darkness - Ursula K. Le Guin
+- Bury Your Gays - Chuck Tingle
+- Annihilation - Jeff VanderMeer
+- Babel - R.F. Kuang
+- [I, Too - Langston Hughes](https://www.poetryfoundation.org/poems/47558/i-too)
+- Your Utopia - Bora Chung translated by Anton Hur
+- Bloodchild and Other Stories - Octavia E. Butler
+
 ## May 2025
 
 - Tributaries - Tim Ralston
