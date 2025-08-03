@@ -4,15 +4,22 @@ site_url: https://isabela-pf.github.io/portfolio/
 theme:
     name: material
 
+    logo: assets/placeholder.png
+    favicon: assets/isabella.png
+
     # https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
     palette:
         scheme: default
-        primary: pink
+        primary: deep purple
 
     features:
         - toc.follow
+        - toc.integrate
+        - navigation.instant
+        - content.tooltips
 
 plugins:
+    - privacy
     - search
 
 # https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#copyright-notice
@@ -21,6 +28,11 @@ copyright: © Isabela Presedo-Floyd 2025. All rights reserved.
 # https://squidfunk.github.io/mkdocs-material/setup/extensions/
 markdown_extensions:
     - admonition
+
+    - attr_list
+    - pymdownx.emoji:
+        emoji_index: !!python/name:material.extensions.emoji.twemoji
+        emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
 nav:
