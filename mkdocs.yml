@@ -10,10 +10,13 @@ theme:
         primary: pink
 
     features:
-        - navigation.tabs
+        - toc.follow
 
 plugins:
     - search
+
+# https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#copyright-notice
+copyright: © Isabela Presedo-Floyd 2025. All rights reserved.
 
 # https://squidfunk.github.io/mkdocs-material/setup/extensions/
 markdown_extensions:
