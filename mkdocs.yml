@@ -4,8 +4,8 @@ site_url: https://isabela-pf.github.io/portfolio/
 theme:
     name: material
 
-    logo: assets/placeholder.png
-    favicon: assets/isabella.png
+    logo: assets/logo.png
+    favicon: assets/favicon.png
 
     # https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
     palette:
